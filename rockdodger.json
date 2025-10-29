@@ -1,0 +1,15 @@
+{
+  "player": {
+    "x": 64,
+    "y": 60,
+    "width": 5,
+    "height": 3
+  },
+  "rocks": {
+    "count": 5,
+    "width": 3,
+    "height": 3
+  },
+  "speed": 100,
+  "lives": 3
+}
