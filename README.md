@@ -27,5 +27,5 @@ Includes games: Snake, Pong, Rock Dodger.
 
 ## Adding Games
 
-- I already put three games in the "json games" folder You can use these games
+- I already put three games: snake.json, pong.json, rockdodger.json
 
